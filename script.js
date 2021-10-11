@@ -9,7 +9,7 @@ const books = [
   {
     title: 'book1',
     author: 'John Doe',
-    img: 'https://i.stack.imgur.com/y9DpT.jpg',
+    img: 'https://bit.ly/3BzLMfM',
   },
   {
     title: 'book2',
